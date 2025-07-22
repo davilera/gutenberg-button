@@ -34,6 +34,6 @@
   },
   "homepage": "https://github.com/davilera/gutenberg-button#readme",
   "devDependencies": {
-    "@wordpress/scripts": "^8.0.1"
+    "@wordpress/scripts": "^30.19.0"
   }
 }
